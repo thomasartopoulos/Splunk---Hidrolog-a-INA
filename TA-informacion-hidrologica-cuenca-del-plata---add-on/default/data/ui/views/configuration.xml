@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<view template="TA-informacion-hidrologica-cuenca-del-plata---add-on:templates/base.html" type="html" isDashboard="False">
+    <label>Configuration</label>
+</view>
